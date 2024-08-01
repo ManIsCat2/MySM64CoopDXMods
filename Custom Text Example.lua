@@ -1,5 +1,5 @@
 -- name: Custom Text
--- description: Replaces The King Bobomb Intro Dialog with custom text. Credit: ThePlayerRolo
+-- description: Replaces The King Bobomb Intro Dialog with custom text. Credit: ThePlayerRolo + ManIsCat2 (For fixing issues)
 
 smlua_text_utils_dialog_replace(gBehaviorValues.dialogs.KingBobombIntroDialog, 1, 4, 100, 175, ("Hello.\
     I'm doing good,\
